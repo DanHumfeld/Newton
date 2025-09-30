@@ -8,3 +8,4 @@ Time	Position
 1 s	4 m
 4 s	5 m
 
+[PINN FI Newton.docx](https://github.com/user-attachments/files/22623930/PINN.FI.Newton.docx)
