@@ -28,10 +28,10 @@ A block of mass 1kg is at rest on a horizontal, frictionless surface, with no fo
 </tbody>
 </table>
 
-_Solved in Newton_fi_v1.py_
+_Solved in newton_v1.py_
 
 
 ### The Rocket Block Problem
 Now consider that the block is actually a rocket block that is burning its own mass to provide that force. The rate of change of mass is dm/dt = - a abs(F). Find the function F(t) that minimizes the burned mass while adhering to all other constraints. a = 1e-2; the block has 100Ns of impulse.
 
-_Solved in Newton_fi_v2.py_
+_Solved in newton_v2.py_
